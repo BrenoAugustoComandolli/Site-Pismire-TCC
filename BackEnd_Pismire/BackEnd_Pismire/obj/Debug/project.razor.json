@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\Usuario\\Documents\\Leonardo\\Cedup\\TCC\\Site\\Site\\BackEnd_Pismire\\BackEnd_Pismire\\BackEnd_Pismire.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
